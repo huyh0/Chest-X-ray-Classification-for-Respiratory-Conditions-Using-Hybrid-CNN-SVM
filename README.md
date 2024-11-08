@@ -1,14 +1,14 @@
-**Chest X-ray Classification for Respiratory Conditions Using Hybrid CNN-SVM
+#Chest X-ray Classification for Respiratory Conditions Using Hybrid CNN-SVM
 
 Huey Hoang, Gaoming Lin
 
-Project Description:
+##Project Description:
 This project aims to develop a hybrid CNN-SVM model for diagnosing respiratory conditions based on Chest X-ray images. The idea is inspired by a paper about the vanilla convolutional neural network for COVID-19 detection [1]. In the hybrid CNN-SVM model, CNN works as an automatic feature extractor and SVM works as a binary classifier [2]. We want to use a hybrid CNN-SVM model to improve the work in this work. Our model will tell between normal individuals and patients with different respiratory conditions such as Pneumonia (COVID-19), Severe Acute Respiratory Syndrome (SARS), Streptococcus, and Acute Respiratory Distress Syndrome (ARDS).
 
-Dataset:
+##Dataset:
 The dataset is a collection of Chest X-rays of Healthy vs Pneumonia (Corona) affected patients along with other categories shown such as severe acute respiratory syndrome, streptococcus, and acute respiratory distress syndrome [3].
 
-Pattern Recognition Techniques:
+##Pattern Recognition Techniques:
 Data Preprocess: Removing noise and inconsistencies in the dataset to ensure high-quality input.
 Data Visualization/Exploration: Understand data distribution and identify patterns through visualization tools such as matplotlib.
 Feature Selection/Extraction: Extract deep features from images using Convolutional Neural Networks (CNNs).
