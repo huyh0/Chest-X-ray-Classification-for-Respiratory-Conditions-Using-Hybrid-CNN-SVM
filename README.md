@@ -1,4 +1,4 @@
-Chest X-ray Classification for Respiratory Conditions Using Hybrid CNN-SVM
+**Chest X-ray Classification for Respiratory Conditions Using Hybrid CNN-SVM
 
 Huey Hoang, Gaoming Lin
 
